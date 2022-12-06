@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">examenrecuperatorio</string>
+
+    <string name="Username_or_email">Username_or_email</string>
+    <string name="Password">Password</string>
+    <string name="button_text">LOGIN IN</string>
+
+
+    <string name="no_tienes_cuenta">¿New user?</string>
+    <string name="crea_una_aqui">/Sing up</string>
+    <string name="Correo">correo</string>
+    <string name="nombre">Nombre</string>
+    <string name="usuario">Usuario</string>
+
+    <string name="button_text_create_account">UNETE</string>
+    <string name="confirme_contraseña">Confirme_contraseña</string>
+    <string name="title_create_cuenta">Crear cuenta</string>
+
+    <string name="buscar_item" />
+    <string name="home_item" />
+    <string name="yo_item" />
+    <string name="button_textFac">LOGIN WITH FECEBOOK</string >
+    <string name="button_textTuit">LOGIN WITH TWITTER</string>
+
+</resources>
